@@ -3,6 +3,26 @@ Database-Week-3-XAMPP
 
 ____
 
+From: 
+
+mysql_error.log
+
+in
+
+C:\xampp\mysql\data
+
+from XAMPP Control Panel -> MySQL -> Logs -> mysql_error.log
+
+opens 
+
+mysql_error.log
+
+which has the following line:
+
+Plugin 'Aria' registration as a STORAGE ENGINE failed
+
+____
+
 Google Search: [Plugin 'Aria' registration as a STORAGE ENGINE failed](https://www.google.com/search?q=Plugin+%27Aria%27+registration+as+a+STORAGE+ENGINE+failed&oq=Plugin+%27Aria%27+registration+as+a+STORAGE+ENGINE+failed&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB4yCggCEAAYgAQYogTSAQc4NTNqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8)
 
 ____
